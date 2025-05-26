@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC44456-A044-4638-9681-DFF4E6ED4C93}|InventariosBack\\InventariosModel.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventariosback\\migrations\\20250526213945_updateorderaddtotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC44456-A044-4638-9681-DFF4E6ED4C93}|InventariosBack\\InventariosModel.csproj|solutionrelative:inventariosback\\migrations\\20250526213945_updateorderaddtotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\controllers\\migrationapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\controllers\\migrationapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\services\\constantsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\services\\constantsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC44456-A044-4638-9681-DFF4E6ED4C93}|InventariosBack\\InventariosModel.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventariosback\\models\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC44456-A044-4638-9681-DFF4E6ED4C93}|InventariosBack\\InventariosModel.csproj|solutionrelative:inventariosback\\models\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\validators\\ordersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\validators\\ordersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\request\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\request\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|d:\\52477\\documents\\bjxit\\evaluacion\\inventarios\\inventarios controller\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA46CFEA-19BD-4A6D-845C-4BD439F7730A}|Inventarios Controller\\Inventarios Controller.csproj|solutionrelative:inventarios controller\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250526213945_updateOrderAddTotal.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\InventariosBack\\Migrations\\20250526213945_updateOrderAddTotal.cs",
+              "RelativeDocumentMoniker": "InventariosBack\\Migrations\\20250526213945_updateOrderAddTotal.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\InventariosBack\\Migrations\\20250526213945_updateOrderAddTotal.cs",
+              "RelativeToolTip": "InventariosBack\\Migrations\\20250526213945_updateOrderAddTotal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:39:46.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Services\\UserServices.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Services\\UserServices.cs",
+              "RelativeToolTip": "Inventarios Controller\\Services\\UserServices.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:37:24.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Inventarios Controller\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAhwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:37:08.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventarios Controller\\appsettings.json",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\appsettings.json",
+              "RelativeToolTip": "Inventarios Controller\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T21:36:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Program.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Program.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Program.cs",
+              "RelativeToolTip": "Inventarios Controller\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:35:49.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConstantsApi.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Services\\ConstantsApi.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Services\\ConstantsApi.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Services\\ConstantsApi.cs",
+              "RelativeToolTip": "Inventarios Controller\\Services\\ConstantsApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:35:17.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MigrationApplicationController.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Controllers\\MigrationApplicationController.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Controllers\\MigrationApplicationController.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Controllers\\MigrationApplicationController.cs",
+              "RelativeToolTip": "Inventarios Controller\\Controllers\\MigrationApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:34:10.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersValidator.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Validators\\OrdersValidator.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Validators\\OrdersValidator.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Validators\\OrdersValidator.cs",
+              "RelativeToolTip": "Inventarios Controller\\Validators\\OrdersValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:56:27.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersModel.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\InventariosBack\\Models\\OrdersModel.cs",
+              "RelativeDocumentMoniker": "InventariosBack\\Models\\OrdersModel.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\InventariosBack\\Models\\OrdersModel.cs",
+              "RelativeToolTip": "InventariosBack\\Models\\OrdersModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:55:46.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Request\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Request\\OrderRequest.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Request\\OrderRequest.cs",
+              "RelativeToolTip": "Inventarios Controller\\Request\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:55:39.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Inventarios Controller\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:46:49.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Inventarios Controller\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\52477\\Documents\\BJXIT\\Evaluacion\\Inventarios\\Inventarios Controller\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Inventarios Controller\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEUAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:44:35.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

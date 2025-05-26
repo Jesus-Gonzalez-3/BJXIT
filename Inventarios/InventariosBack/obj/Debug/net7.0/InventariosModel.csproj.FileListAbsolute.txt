@@ -1,0 +1,14 @@
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\bin\Debug\net7.0\InventariosModel.deps.json
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\bin\Debug\net7.0\InventariosModel.dll
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\bin\Debug\net7.0\InventariosModel.pdb
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\InventariosModel.csproj.AssemblyReference.cache
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\InventariosModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\InventariosModel.AssemblyInfoInputs.cache
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\InventariosModel.AssemblyInfo.cs
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\InventariosModel.csproj.CoreCompileInputs.cache
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\InventariosModel.dll
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\refint\InventariosModel.dll
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\InventariosModel.pdb
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\ref\InventariosModel.dll
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\bin\Debug\net7.0\InventariosModel.runtimeconfig.json
+D:\52477\Documents\BJXIT\Evaluacion\Inventarios\InventariosBack\obj\Debug\net7.0\InventariosModel.genruntimeconfig.cache
